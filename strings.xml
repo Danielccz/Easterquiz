@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Easter quiz</string>
+    <string name="Check">Zkontrolujte si své odpovědi!</string>
+    <string name="China">Čína</string>
+    <string name="Czech">Česká republika</string>
+    <string name="France">Francie</string>
+    <string name="Germany">Německo</string>
+    <string name="India">Indie</string>
+    <string name="Italy">Itálie</string>
+    <string name="Congratulations">Gratulujeme!<xliff:g id="name" example="Amy">%s</xliff:g> - vítěz!</string>
+    <string name="Japan">Japonsko</string>
+    <string name="Kannada">Kanada</string>
+    <string name="Kulich">Kulič</string>
+    <string name="Pasqua">Paska</string>
+    <string name="Polland">Polsko</string>
+    <string name="Russia">Rusko</string>
+    <string name="Spain">Španělsko</string>
+    <string name="Ukrain">Ukrajina</string>
+    <string name="bunny">Králík</string>
+    <string name="egg">Мajíčka</string>
+    <string name="lamb">Beránek</string>
+    <string name="mandarin">Mandarinka</string>
+    <string name="name">Zadejte své jméno, prosím</string>
+    <string name="tryAgain">Дорогой <xliff:g id="name" example="Amy">%s</xliff:g>, попробуйте еще раз.</string>
+    <string name="question_1">Ukrajinský velikonoční chléb, známý také jako Babka, je bohaté sladké bílé pečivo. Jas se to jmenuje?</string>
+    <string name="question_2">Který obrázek vyobrazuje Ukrajinské velikonoční vajíčko - „Krashanka“?</string>
+    <string name="question_3">Vyberte tři symboly Velikonoc v různých evropských zemích.</string>
+    <string name="question_4">V této zemi na svátečním stole musí být «Colomba Pasquale» - „Velikonoční Dove“. Jedná se o sladké pečivo z  kynutého těsta s rozinkami a mandlemi.</string>
+    <string name="question_5">V jaké zemi hlavním symbolem Velikonoc je zvon? V tento den, zvonky je slyšet všude, co symbolizuje pokračování života a zábavy.</string>
+    <string name="question_6">V jaké zemi mají kořeny moderní tradice o Velikonočním zajíčkovi, který schovává vajíčka?  Ráno na velikonoční pondělí je děti vyrážejí hledat.</string>
+    <string name="question_7">V této zemi Svatý týden spojen s průvody м doprovodu hudby, zpěvu a obrovských platform s lidmi ve výrazných pláštích a kuklách.</string>
+    <string name="question_8">Ve které zemi existuje tradice pect koláče ve tvaru Beránka na Velikonoce?</string>
+    <string name="question_9">V této zemi pomlázka je jedním ze symbolů svátků jara, dnes Velikonoc. Jde o spletený svazek proutků, který bývá na tenčím konci ozdoben barevnými pentlemi.</string>
+    <string name="scoreMessage">Vy máte <xliff:g id="number" example="9">%D</xliff:g> bodů z 9.</string>
+</resources>
